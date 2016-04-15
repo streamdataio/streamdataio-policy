@@ -63,7 +63,7 @@ You acknowledge and agree that Streamdata own all legal right, title, interest i
 
 5.3. Streamdata cannot be held responsible of any Content, whatever it is, accessible by using the Services. You understand and agree that all information ( the Content) to which You may have access through the use of the Services are the sole responsibility of the personn from which such content originated.
 
-5.4. You agree that You are solely responsible (and that Streamdata has no responsibility to you or to any third party for) of any consequences whatever they are, regarding the Application or any content You create, transmit or disply while using the Services.
+5.4. You agree that You are solely responsible (and that Streamdata has no responsibility to you or to any third party for) of any consequences whatever they are, regarding the Application or any content You create, transmit or display while using the Services.
 
 5.5. Streamdata cannot be held responsible for the deletion or failure to store any Content and other data maintained or transmitted through the use of the Services.
 
@@ -157,7 +157,7 @@ You may not transfer or assign Your rights under this agreement, in whole or in 
 
 13.2. You understand and agree that if you use the Service after the date on which the Terms have changed, Streamdata will treat your use as acceptance of the updated Terms of Services.
 
-14 Law and Disputes – Power of Jurisdiction
+#### 14. Law and Disputes – Power of Jurisdiction
 
 14.1 The interpretation and validity of this Agreement shall be governed by French law.
 The Parties expressly agree that application of the United Nations Convention (the “Vienna Convention”) of April 11, 1980 relating to the international sale of goods is excluded from this Agreement.

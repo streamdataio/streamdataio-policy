@@ -36,11 +36,8 @@ The processing of Customer personal information is subject to a CNIL declaration
 4.	**Children**. If you are under 18, or the age of majority in the jurisdiction in which you reside, you may only use the Streamdata.io website and Streamdata.io Services with the consent of your parent or legal guardian.
 
 5.	**Consent**. By accessing and using the Streamdata.io website and Streamdata.io Services, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our Terms of Service take precedence over any conflicting Privacy Policy provision contained herein.  In the event of a corporate sale, merger, reorganization, dissolution or similar event, personally Customer Information may be part of the transferred assets. You will be informed of this event through email, two (2) months in advance. 
-
 Access and rectification to your Information. You may contact Streamdata.io to request Customer Information held by Streamdata.io in order to access, correct, amend or delete any information at any time. You may contact us at the addresses below:
 a. Email: community@streamdata.io
 b. Postal mail: Streamdata.io, 35 Chemin du Vieux Chêne - 38240 Meylan France
 
 6.	In compliance with the EU Principles, Streamdata.io commits to resolve complaints about your privacy and our collect or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy may first contact Streamdata.io.
-
-
